@@ -33,7 +33,7 @@
 
 /* ----- TYPING EFFECT ----- */
    var typingEffect = new Typed(".typedText",{
-      strings : ["Designer","Youtuber","Developer"],
+      strings : ["Students at Sripatum University","Computer Engineering","Developer"],
       loop : true,
       typeSpeed : 100, 
       backSpeed : 80,
